@@ -23,3 +23,5 @@ This repository contains an updated full-stack implementation of the React Portf
 ---
 
 AI Disclaimer: Artificial intelligence was utilized as an assistance tool during the preparation of this project to refine, format, and review the README documentation, ensuring it is written in clear, professional, and grammatically accurate English.
+
+Screen Recording link: https://drive.google.com/file/d/1SXJ08k3CEEm8iSQhFC06XQBfMHD9k5bP/view?usp=sharing
